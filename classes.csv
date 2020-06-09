@@ -1,4 +1,20 @@
 class,teachers,websites
+SBI3U,"['Mr. Box', 'Mr. Cermak', 'Ms. Hillier']","['https://sites.google.com/a/ocdsb.ca/jmss_box/', 'https://sites.google.com/a/ocdsb.ca/jmss_cermak/', 'https://sites.google.com/a/ocdsb.ca/jmss_hillier/']"
+SBI4U,"['Mr. Box', 'Mr. Cermak']","['https://sites.google.com/a/ocdsb.ca/jmss_box/', 'https://sites.google.com/a/ocdsb.ca/jmss_cermak/']"
+SNC2DF,"['Ms. Brunet', 'Mr. Jean']",['https://sites.google.com/ocdsb.ca/jean/home']
+SNC2D,"['Ms. Brunet', 'Ms. Mohan', 'Mr. Stoppels']",[]
+SNC1DF,"['Ms. Brunet', 'Mr. Jean']",['https://sites.google.com/ocdsb.ca/jean/home']
+HPASCI,['Mr. Cermak'],['https://sites.google.com/a/ocdsb.ca/jmss_cermak/']
+SCH3U,"['Ms. Corner Gardiner', 'Ms. Mohan', 'Ms. Zurawski']","['https://sites.google.com/a/ocdsb.ca/jmss_corner-gardiner/', 'https://sites.google.com/a/ocdsb.ca/msvenables/']"
+SNC1D,"['Ms. Corner Gardiner', 'Mr. Stoppels']",['https://sites.google.com/a/ocdsb.ca/jmss_corner-gardiner/']
+SPH4U,['Mr. Finn'],[]
+SPH3U,"['Mr. Finn', 'Ms. VanAsseldonk']",[]
+SNC2P,['Ms. Hillier'],['https://sites.google.com/a/ocdsb.ca/jmss_hillier/']
+SVN3E,['Mr. Jean'],['https://sites.google.com/ocdsb.ca/jean/home']
+SBI3C,['Ms. Packer-Quinell'],[]
+SNC1P,['Mr. Stoppels'],[]
+SCH4U,['Ms. Zurawski'],['https://sites.google.com/a/ocdsb.ca/msvenables/']
+SCH4U/4UR,['Ms. Zurawski'],['https://sites.google.com/a/ocdsb.ca/msvenables/']
 MFM2P,"['Mr. Albrecht', 'Mr. Czudner']",['https://sites.google.com/a/ocdsb.ca/mczudner/']
 MPM2D,"['Mr. Albrecht', 'Mr. Eisner', 'Mr. Mikkelborg']",['https://sites.google.com/a/ocdsb.ca/ian-s-practice/']
 MCR3U,"['Mr. Albrecht', 'Mr. Pinhey', 'Mr. Somers', 'Ms. Walker']","['http://pinheymath.pbworks.com/w/page/97649786/FrontPage', 'https://sites.google.com/a/ocdsb.ca/mr-somers-ldhss-math/', 'https://sites.google.com/a/ocdsb.ca/jmss_walker/']"
@@ -12,3 +28,17 @@ MEL3E,['Mr. Roberts'],[]
 MCF3M,['Mr. Roberts'],[]
 MAT1L,['Mr. Somers'],['https://sites.google.com/a/ocdsb.ca/mr-somers-ldhss-math/']
 MHF4UR,['Ms. Walker'],['https://sites.google.com/a/ocdsb.ca/jmss_walker/']
+TDJ2O,['Mr. Bollman'],['https://sites.google.com/ocdsb.ca/mrbollman/welcome']
+TIJ1O,"['Mr. Bollman', 'Mr. Leduc', 'Mr. McMillan']","['https://sites.google.com/ocdsb.ca/mrbollman/welcome', 'https://sites.google.com/a/ocdsb.ca/mr-leduc/home', 'https://sites.google.com/a/ocdsb.ca/mr-mcmillan-gordon-portfolio-website/home']"
+TDJ4M,['Mr. Bollman'],['https://sites.google.com/ocdsb.ca/mrbollman/welcome']
+ICS2O,['Ms. Gilfillan'],[]
+TDA3M,['Mr. Leduc'],['https://sites.google.com/a/ocdsb.ca/mr-leduc/home']
+TDJ2OF,['Mr. Leduc'],['https://sites.google.com/a/ocdsb.ca/mr-leduc/home']
+TGJ4M,['Mr. May'],['https://sites.google.com/a/ocdsb.ca/jmss_may/']
+TGJ2O,['Mr. May'],['https://sites.google.com/a/ocdsb.ca/jmss_may/']
+TGJ3M,['Mr. May'],['https://sites.google.com/a/ocdsb.ca/jmss_may/']
+TIJ1OF,"['Mr. McMillan', 'Mr. Mikkelborg']",['https://sites.google.com/a/ocdsb.ca/mr-mcmillan-gordon-portfolio-website/home']
+TCJ3C,['Mr. McMillan'],['https://sites.google.com/a/ocdsb.ca/mr-mcmillan-gordon-portfolio-website/home']
+TCS4C,['Mr. Mikkelborg'],[]
+ICS3U,['Ms. Shaw'],['https://sites.google.com/a/ocdsb.ca/ms-shaw-s-classes/home']
+ICS4U,['Ms. Shaw'],['https://sites.google.com/a/ocdsb.ca/ms-shaw-s-classes/home']

@@ -4,7 +4,8 @@ import re  # imports the csv and the regular expression module
 
 asession = AsyncHTMLSession()
 
-urls = ['https://johnmccraess.ocdsb.ca/cms/one.aspx?portalId=233445&pageId=1154152']
+urls = ['https://johnmccraess.ocdsb.ca/cms/one.aspx?portalId=233445&pageId=1154152',
+'https://johnmccraess.ocdsb.ca/cms/one.aspx?portalId=233445&pageId=1154155', 'https://johnmccraess.ocdsb.ca/cms/one.aspx?portalId=233445&pageId=1154161']
 
 
 def get_page_function(url: str):
